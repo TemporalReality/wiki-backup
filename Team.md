@@ -1,0 +1,9 @@
+- **jordsta95**: Temporal Reality founder
+- **coolsquid**: Temporal Reality founder
+- **trajing**: Web/Forum developer
+- **qazplm601**: Modpack developer
+- **thephoenixlodge**: Modpack developer
+- **Strikingwolf**: Coding know-it-all
+- **Goreae**: Modpack developer and forum moderator
+- **iLexiconn**: Artist
+- **shadowfacts**: Launcher developer/coding genius
