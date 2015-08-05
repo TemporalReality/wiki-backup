@@ -1,0 +1,10 @@
+## Why Temporal Reality?
+The Temporal Reality core team members all came from a different modded Minecraft community. After we saw the direction they were taking, and the decisions they were making, we all agreed the changes they were making would harm the community. So we made our own.
+
+## Why are we different?
+Temporal Reality aims to try and please every group of the modded minecraft community:
+
+- Mod developers - We aim to please mod developers by making sure that whenever a mod is launched through our launcher, they get another download from their mod. This is done so mods hosted on CurseForge will get a download each time it is downloaded as part of a mod pack; giving the mod dev more Curse points, while also respecting the permissions put in place by the mod dev. Mod devs will also be given custom user titles on the forum, to help users recognize them and/or their mod(s)
+- Pack developers - We want to offer pack developers an equal oppurtunity to get their packs noticed. So we won't highlight just the best packs. At the minute the most we will do is offer pack devs a custom user title on the forums, and a way for other members to identify them. But in the future, we will be looking into ways to highlight other packs made by non-Temporal Reality team members, and not just the popular ones.
+- Server Hosts - This applies to both server owners and server hosting companies. We would like to encourage both parties to advertise their services to the community. This is because we know that whenever there is a popular mod pack, people want to play it on a server. However, we also understand that server hosts don't have endless amounts of money, so they will look for the best server providers.
+- Players - If you play modded Minecraft, you probably already know a good community is essential. Whether it be somewhere to post bug reports, somewhere you can ask for help, or just somewhere to get involved with other people; making friends, finding servers, or just general chit-chat.
