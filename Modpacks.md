@@ -4,3 +4,4 @@
 
 ## In Developement
 - [[Endeavour|Endeavour (Modpack)]] by thephoenixlodge
+- [[Glorious Adventure|Glorious Adventure (Modpack)]] by JavaMatrix
