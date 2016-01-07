@@ -1,0 +1,1 @@
+<strong style="font-size:1.2em">text</strong>
